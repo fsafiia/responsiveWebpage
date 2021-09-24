@@ -45,7 +45,7 @@ nav{
 button{
     margin-left:650px;
 }
-}
+
 
 
 footer{
@@ -97,39 +97,5 @@ img{
 
 }
 
-@media screen and (min-width: 100px) {
-    .block{
-        width: 100%;
-        vertical-align: 100px;
-    }
-    .p{
-        vertical-align: 10px;
-    }
-
-    .para{
-        vertical-align: 10px;
-        width: 100%;
-    }
-
-    button{
-        /*margin: 0px;*/
-        margin-left: 210px;
-    }
-
-}
-
-@media screen and (min-width: 800px) {
-    .block{
-        width: 250px;
-        margin-top: 100px;
-    }
-
-    .para{
-        margin: 8px;
-    }
-
-
-
-}
 
 
