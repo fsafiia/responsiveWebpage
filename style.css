@@ -99,16 +99,16 @@ img{
 
 @media screen and (max-width: 800px) {
     .block{
-        display: block;
-        clear: left;
-        float: left;
+        position: absolute;
+        top: 0;
+        left: 0;
         width: 100%;
     }
 
     .content{
-        display: block;
-        clear: left;
-        float: left;
+        position: absolute;
+        top: 0;
+        left: 0;
         width: 100%;
     }
 }
