@@ -99,12 +99,15 @@ img{
 
 @media screen and (max-width: 800px) {
     .block{
+        display: block;
+        float: none;
         width: 100%;
-        display: inline-block;
     }
 
     .content{
-        display: inline-block;
+        display: block;
+        float: none;
+        width: 100%;;
     }
 }
 
