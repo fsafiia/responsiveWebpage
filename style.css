@@ -100,13 +100,15 @@ img{
 @media screen and (max-width: 800px) {
     .block{
         display: block;
-        float:left;
+        clear: left;
+        float: left;
         width: 100%;
     }
 
     .content{
         display: block;
-        float:left;
+        clear: left;
+        float: left;
         width: 100%;
     }
 }
