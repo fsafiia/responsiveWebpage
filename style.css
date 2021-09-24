@@ -97,7 +97,7 @@ img{
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 100px) {
     .block{
         width: 100%;
         vertical-align: 100px;
