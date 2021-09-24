@@ -100,11 +100,11 @@ img{
 @media screen and (max-width: 800px) {
     .block{
         width: 100%;
-        vertical-align: 100px;
+        display: inline-block;
     }
 
     .content{
-        vertical-align: 100px;
+        display: inline-block;
     }
 }
 
